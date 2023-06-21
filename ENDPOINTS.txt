@@ -1,0 +1,8 @@
+
+http://localhost/sisvigapi/powerbi/general_controller/fecha_inic_anio_mes/fecha/COL-2018-02
+http://localhost/sisvigapi/powerbi/general_controller/fecha_inic_anio_mes/fecha/IND-2018-02
+http://localhost/sisvigapi/powerbi/general_controller/fecha_inic_anio_mes/fecha/MOR-2023-02
+http://localhost/sisvigapi/powerbi/general_controller/id_evento_padre_tipo/id/COL-14
+http://localhost/sisvigapi/powerbi/general_controller/id_evento_padre_tipo/id/IND-12
+http://localhost/sisvigapi/powerbi/general_controller/id_evento_padre_tipo/id/MOR-2
+
